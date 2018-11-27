@@ -8,6 +8,7 @@ public class TestMain {
 
         System.out.println("branch msg 1");
         System.out.println("branch msg 2");
+        System.out.println("branch msg 3");
 
     }
 
