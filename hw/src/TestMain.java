@@ -7,6 +7,7 @@ public class TestMain {
         System.out.println("ni hao ya wozai zheli22222 ");
 
         System.out.println("branch msg 1");
+        System.out.println("branch msg 2");
 
     }
 
