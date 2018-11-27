@@ -4,7 +4,7 @@ public class TestMain {
 
         System.out.println("hello world");
 
-        System.out.println("ni hao ya wozai zheli ");
+        System.out.println("ni hao ya wozai zheli22222 ");
 
     }
 
