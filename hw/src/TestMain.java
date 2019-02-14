@@ -2,7 +2,8 @@ public class TestMain {
 
     public static void main(String[] args) {
 
-        System.out.println("hello world");
+        String aaa = "ahahahaha";
+        String bbb = "bbbb";
 
         System.out.println("ni hao ya wozai zheli22222 ");
         
