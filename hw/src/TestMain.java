@@ -6,6 +6,7 @@ public class TestMain {
         String bbb = "bbbb";
         String ccc = "ccc";
         String ddd = "ddd";
+        String fff = "fff";
 
         System.out.println("ni hao ya wozai zheli22222 ");
         
