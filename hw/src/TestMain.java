@@ -4,6 +4,7 @@ public class TestMain {
 
         String aaa = "ahahahaha";
         String bbb = "bbbb";
+        String ccc = "ccc";
 
         System.out.println("ni hao ya wozai zheli22222 ");
         
