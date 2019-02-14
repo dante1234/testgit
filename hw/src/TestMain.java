@@ -2,7 +2,7 @@ public class TestMain {
 
     public static void main(String[] args) {
 
-        List<String> list = new ArrayList<>();
+        System.out.println("hello world");
 
         System.out.println("ni hao ya wozai zheli22222 ");
         
